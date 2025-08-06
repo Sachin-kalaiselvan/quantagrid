@@ -1,0 +1,57 @@
+{
+  "name": "quantagrid",
+  "version": "1.0.0",
+  "description": "Revolutionary Adaptive Intelligence Mesh Network using Gemma 3n MatFormer Architecture",
+  "homepage": "https://Sachin-kalaiselvan.github.io/quantagrid",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  },
+  "keywords": [
+    "AI",
+    "Machine Learning",
+    "Gemma",
+    "Emergency Response",
+    "Mesh Network",
+    "Adaptive Intelligence",
+    "Disaster Management",
+    "Google",
+    "Kaggle",
+    "Competition",
+    "MatFormer",
+    "On-device AI"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  }
+}
