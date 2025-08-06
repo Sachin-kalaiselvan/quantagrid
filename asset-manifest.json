@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quantagrid/static/css/main.3f5d2b4a.css",
+    "main.js": "/quantagrid/static/js/main.c68d6f46.js",
+    "index.html": "/quantagrid/index.html",
+    "main.3f5d2b4a.css.map": "/quantagrid/static/css/main.3f5d2b4a.css.map",
+    "main.c68d6f46.js.map": "/quantagrid/static/js/main.c68d6f46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f5d2b4a.css",
+    "static/js/main.c68d6f46.js"
+  ]
+}
